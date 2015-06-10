@@ -1,0 +1,7 @@
+// the classic first program,for all new people like a tradition! :P
+
+class hello{                                   //define a class
+  public static void main(String[] args){      //the main
+  System.out.println("hello world");           //show the greetings lol
+  }
+}
